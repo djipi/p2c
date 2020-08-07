@@ -1,0 +1,9 @@
+examples/*.c
+examples/*.out
+src/vs2019/.vs/
+src/vs2019/Win32/
+src/vs2019/x64/
+src/vs2019/*.user
+*.exe
+*.o
+*.a
